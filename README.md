@@ -55,7 +55,5 @@ CI/CD: GitHub Actions<br/>
 - Ethics Reports: Care Ethics in Communication, Media Deregulation
 - Feasibility of a Single-Cell Protein for Sustinence
 - Financial Analysis: Rolls-Royce FY2010
-## Contact
-**LinkedIn:** [jeramiahpoff](https://www.linkedin.com/in/jeramiahpoff)  
-**Website:** [lastwatch.net](https://lastwatch.net)
+
 > “Build secure systems. Teach what you learn. Leave it better than you found it.”
