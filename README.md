@@ -34,7 +34,7 @@ CI/CD: GitHub Actions<br/>
 **A.A.S. in Airway & Transportation Science** – Air University (2008)<br/>
 ## **Projects**
 - **AWS Website:** Utilized the AWS ecosystem, HTML, CSS, and JavaScript. Implemented a CI/CD pipeline with GitHub and Amplify for an InfoSec career development site: [lastwatch.net](https://lastwatch.net)<br/>
-- **Azure Honey Net:** Mirosoft Sentinel Threat Honey Net with Geo Location for Crowd Sourced Threat Intelligence platforms<br/>
+- **Azure Honey Net:** Mirosoft Sentinel Honey Net with Geo Location for Crowd Sourced Threat Intelligence platforms<br/>
 - **Docker EDR:** Deployed and configured Wazuh with Docker; refined alert logic<br/>
 ## Non-Profit Experience
 - VetSec.Org Grants Manager: securing funding for veteran cyber security career development [VetSec.org](https://vetsec.org)<br/>
