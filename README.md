@@ -39,7 +39,7 @@ CI/CD: GitHub Actions<br/>
 ## Non-Profit Experience
 - VetSec.Org Grants Manager: securing funding for veteran cyber security career development [VetSec.org](https://vetsec.org)<br/>
 - Peer Mentor: helps transitioning veterans and entry-level cyber security learners through VetSec and LinkedIn<br/>
-- Junior Achievement Instructor:** Taught K–8 financial literacy and entrepreneurship<br/>
+- Junior Achievement Instructor: Taught K–8 financial literacy and entrepreneurship<br/>
 - Volunteer Instructor: CISSP, Security+, Network+, AI for Helpdesk<br/>
 ## Public Speaking
 - Office of the Secretary of Defense, National Tour: “Why We Serve” initiative – Presented to schools, civic organizations, radio and T.V.
