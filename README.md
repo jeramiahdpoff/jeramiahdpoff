@@ -1,5 +1,5 @@
 # JERAMIAH POFF
-#### Help Desk - Operations Managment | Systems Administrator - MSP | Senior Threat Hunter - MSSP | Detection Engineer and Consultant - MSSP | Cyber Security Career Development - SME | DevSecOps Practitioner - AWS, Azure
+#### Help Desk - Operations Management | Systems Administrator - MSP | Senior Threat Hunter - MSSP | Detection Engineer and Consultant - MSSP | Cyber Security Career Development - SME | DevSecOps Practitioner - AWS, Azure
 15+ years in Help Desk Managment accross Android, iOS, MAC OS and Windows<br/>
 7+ years in Networking and Virtual Machine Adminstration accross Windows and Linux<br/>
 3+ year in SOC, GRC, and Detection Engineering across Azure, AWS, and GCP<br/>
