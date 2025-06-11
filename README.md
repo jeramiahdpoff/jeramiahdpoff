@@ -9,7 +9,7 @@
 
 ## Cloud and Security Engineering Skillset
 
-Azure: Azure AD, Azure Monitor, Azure Policy, Azure VMs, Azure Virtual Network, Blob Storage, Defender for Cloud, Log Analytics, Kusto Query Language, Microsoft Sentinel, Network Security Groups, Role-Based Access Control<br/>
+Azure: Azure AD, Azure Monitor, Azure Policy, Azure RBAC, Azure VMs, Azure Virtual Network, Blob Storage, Defender for Cloud, Log Analytics, Kusto Query Language, Microsoft Sentinel, Network Security Groups, Role-Based Access Control<br/>
 Admin Platforms: Microsoft 365 Suite, ConnectWise Suite<br/>
 Vulnerability Management: Qualys Cloud Platform<br/>
 EDR: Cybereason, CrowdStrike Falcon XDR<br/>
@@ -24,7 +24,7 @@ IaC: Terraform, Vagrant<br/>
 CI/CD: GitHub Actions<br/>
 
 ## Certifications and Education
-**Current:** CISSP, Aviatrix ACE, Security+<br/> **In Progress:** CySA+ (End of June), GCSA (End of July)<br/>
+**Current:** CISSP, Aviatrix ACE<br/> **In Progress:** CySA+ (End of June), GCSA (End of July)<br/>
 
 **MS. in Cyber Security and Information Assurance** – Western Governers University (09/2025 expected)<br/>
 
