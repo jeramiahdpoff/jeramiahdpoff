@@ -2,7 +2,7 @@
 #### Help Desk - Operations Management | Systems Administrator - MSP | Senior Threat Hunter - MSSP | Detection Engineer and Consultant - MSSP | Cyber Security Career Development - SME | DevSecOps Practitioner - AWS, Azure
 15+ years in Help Desk Managment accross Android, iOS, MAC OS and Windows<br/>
 7+ years in Networking, On-Prem System and Virtual Machine Adminstration accross Windows and Linux<br/>
-3+ year in SOC performing: threat hunting, incident response, GRC Analysis, and SIEM/SOAR/EDR Detection Engineering across Windows, MAC OS, Azure, AWS, and GCP<br/>
+3+ year in SOC performing: threat hunting, incident response, GRC Analysis, and SIEM/SOAR/EDR Detection Engineering across Windows, macOS, Azure, AWS, and GCP<br/>
 2+ years Security Consulting on Business Strategy & Branding, Cloud-native & hybrid architecture (PaaS/IaaS), and Zero Trust design<br/>
 1+ years in Cyber Security training accross Azure including: Cloud Security Engineering, GRC, Help-Desk, Networking, and Vulnerability Management<br/>
 
