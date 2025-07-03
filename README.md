@@ -23,12 +23,12 @@ IaC: Terraform, Vagrant<br/>
 CI/CD: GitHub Actions<br/>
 
 ## Certifications and Education
-**Current:** CISSP, Aviatrix ACE<br/> **In Progress:** CySA+ (End of June), GCSA (End of July)<br/>
+**Current:** CISSP, Aviatrix ACE<br/> **In Progress:** GCSA (End of July)<br/>
 
-**MS. in Cyber Security and Information Assurance** – Western Governers University (09/2025 expected)<br/>
+**MS. in Computer Science, Artificial Intelligence, and Machine Learning** – Western Governers University (12/2025 expected)<br/>
 
 **B.Sc.A. in Aeronautics** – Embry-Riddle Aeronautical University (2013)<br/>
-*Minors:* Psychology, Business, Physiology<br/>
+*Minors:* Business, Physiology, and Psychology<br/>
 
 **A.A.S. in Airway & Transportation Science** – Air University (2008)<br/>
 ## **Projects**
@@ -39,7 +39,7 @@ CI/CD: GitHub Actions<br/>
 - VetSec.Org Grants Manager: securing funding for veteran cyber security career development [VetSec.org](https://vetsec.org)<br/>
 - Peer Mentor: helps transitioning veterans and entry-level cyber security learners through VetSec and LinkedIn<br/>
 - Junior Achievement Instructor: Taught K–8 financial literacy and entrepreneurship<br/>
-- Volunteer Instructor: CISSP, Security+, Network+, Help Desk, and Prompt Engineering<br/>
+- Volunteer Instructor: CISSP, Security+, Network+, help desk, and prompt engineering<br/>
 ## Public Speaking
 - Office of the Secretary of Defense, National Tour: “Why We Serve” initiative – Presented to schools, civic organizations, radio and T.V.
 - RAF Lakenheath, UK: Addressed U.S. Congressional Delegates on Operation Iraqi Freedom funding
