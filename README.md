@@ -25,7 +25,7 @@ CI/CD: GitHub Actions<br/>
 ## Certifications and Education
 **Current:** CISSP, CBROPS, Aviatrix ACE, WISE<br/>
 **In-progress:** GCSA (10/2025 expected)<br/>
-**Past:** Security+, CCTA, Fortinet Certified Fundamentals Cybersecurity<br/>
+**Expired:** Security+, CCTA, Fortinet Certified Fundamentals Cybersecurity<br/>
 
 **MS. in Computer Science, Artificial Intelligence, and Machine Learning** – Western Governers University (12/2025 expected)<br/>
 
