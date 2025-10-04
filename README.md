@@ -23,7 +23,7 @@ IaC: Terraform, Vagrant<br/>
 CI/CD: GitHub Actions<br/>
 
 ## Certifications and Education
-**Current:** CISSP, Aviatrix ACE, WISE
+**Current:** CISSP, CBROPS, Aviatrix ACE, WISE
 *In-progress:** GCSA (10/2025 expected)
 **Past:** Security+, CCTA, Fortinet 
 **MS. in Computer Science, Artificial Intelligence, and Machine Learning** – Western Governers University (12/2025 expected)<br/>
